@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ye1 临床研究方案与数据准备"
+  short_description: "从临床工作和已有资料中寻找研究方向，形成研究方案并准备数据。"
+  default_prompt: "使用 $ye1-clinical-study-design，我有一份临床资料，请帮我寻找合适的研究方向并设计研究方案。"
